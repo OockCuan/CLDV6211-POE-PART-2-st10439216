@@ -7,8 +7,24 @@
       "RelativeMoniker": "D:0:0:{CE78EF6A-D7E7-42CE-B1AB-4CB50D2346B6}|CLDV6211POEPART1\\CLDV6211POEPART1.csproj|solutionrelative:cldv6211poepart1\\controllers\\venuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{CE78EF6A-D7E7-42CE-B1AB-4CB50D2346B6}|CLDV6211POEPART1\\CLDV6211POEPART1.csproj|c:\\users\\lab_services_student\\desktop\\github\\cloud poe p2\\cldv6211-poe-part-2-st10439216\\cldv6211poepart1\\cldv6211poepart1\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE78EF6A-D7E7-42CE-B1AB-4CB50D2346B6}|CLDV6211POEPART1\\CLDV6211POEPART1.csproj|solutionrelative:cldv6211poepart1\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE78EF6A-D7E7-42CE-B1AB-4CB50D2346B6}|CLDV6211POEPART1\\CLDV6211POEPART1.csproj|c:\\users\\lab_services_student\\desktop\\github\\cloud poe p2\\cldv6211-poe-part-2-st10439216\\cldv6211poepart1\\cldv6211poepart1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CE78EF6A-D7E7-42CE-B1AB-4CB50D2346B6}|CLDV6211POEPART1\\CLDV6211POEPART1.csproj|solutionrelative:cldv6211poepart1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CE78EF6A-D7E7-42CE-B1AB-4CB50D2346B6}|CLDV6211POEPART1\\CLDV6211POEPART1.csproj|c:\\users\\lab_services_student\\desktop\\github\\cloud poe p2\\cldv6211-poe-part-2-st10439216\\cldv6211poepart1\\cldv6211poepart1\\models\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE78EF6A-D7E7-42CE-B1AB-4CB50D2346B6}|CLDV6211POEPART1\\CLDV6211POEPART1.csproj|solutionrelative:cldv6211poepart1\\models\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE78EF6A-D7E7-42CE-B1AB-4CB50D2346B6}|CLDV6211POEPART1\\CLDV6211POEPART1.csproj|c:\\users\\lab_services_student\\desktop\\github\\cloud poe p2\\cldv6211-poe-part-2-st10439216\\cldv6211poepart1\\cldv6211poepart1\\views\\venue\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE78EF6A-D7E7-42CE-B1AB-4CB50D2346B6}|CLDV6211POEPART1\\CLDV6211POEPART1.csproj|solutionrelative:cldv6211poepart1\\views\\venue\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE78EF6A-D7E7-42CE-B1AB-4CB50D2346B6}|CLDV6211POEPART1\\CLDV6211POEPART1.csproj|c:\\users\\lab_services_student\\desktop\\github\\cloud poe p2\\cldv6211-poe-part-2-st10439216\\cldv6211poepart1\\cldv6211poepart1\\views\\booking\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE78EF6A-D7E7-42CE-B1AB-4CB50D2346B6}|CLDV6211POEPART1\\CLDV6211POEPART1.csproj|solutionrelative:cldv6211poepart1\\views\\booking\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CE78EF6A-D7E7-42CE-B1AB-4CB50D2346B6}|CLDV6211POEPART1\\CLDV6211POEPART1.csproj|c:\\users\\lab_services_student\\desktop\\github\\cloud poe p2\\cldv6211-poe-part-2-st10439216\\cldv6211poepart1\\cldv6211poepart1\\views\\venue\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -17,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{CE78EF6A-D7E7-42CE-B1AB-4CB50D2346B6}|CLDV6211POEPART1\\CLDV6211POEPART1.csproj|c:\\users\\lab_services_student\\desktop\\github\\cloud poe p2\\cldv6211-poe-part-2-st10439216\\cldv6211poepart1\\cldv6211poepart1\\views\\venue\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CE78EF6A-D7E7-42CE-B1AB-4CB50D2346B6}|CLDV6211POEPART1\\CLDV6211POEPART1.csproj|solutionrelative:cldv6211poepart1\\views\\venue\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE78EF6A-D7E7-42CE-B1AB-4CB50D2346B6}|CLDV6211POEPART1\\CLDV6211POEPART1.csproj|c:\\users\\lab_services_student\\desktop\\github\\cloud poe p2\\cldv6211-poe-part-2-st10439216\\cldv6211poepart1\\cldv6211poepart1\\views\\venue\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CE78EF6A-D7E7-42CE-B1AB-4CB50D2346B6}|CLDV6211POEPART1\\CLDV6211POEPART1.csproj|solutionrelative:cldv6211poepart1\\views\\venue\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CE78EF6A-D7E7-42CE-B1AB-4CB50D2346B6}|CLDV6211POEPART1\\CLDV6211POEPART1.csproj|c:\\users\\lab_services_student\\desktop\\github\\cloud poe p2\\cldv6211-poe-part-2-st10439216\\cldv6211poepart1\\cldv6211poepart1\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,14 +55,6 @@
       "RelativeMoniker": "D:0:0:{CE78EF6A-D7E7-42CE-B1AB-4CB50D2346B6}|CLDV6211POEPART1\\CLDV6211POEPART1.csproj|solutionrelative:cldv6211poepart1\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE78EF6A-D7E7-42CE-B1AB-4CB50D2346B6}|CLDV6211POEPART1\\CLDV6211POEPART1.csproj|c:\\users\\lab_services_student\\desktop\\github\\cloud poe p2\\cldv6211-poe-part-2-st10439216\\cldv6211poepart1\\cldv6211poepart1\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE78EF6A-D7E7-42CE-B1AB-4CB50D2346B6}|CLDV6211POEPART1\\CLDV6211POEPART1.csproj|solutionrelative:cldv6211poepart1\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE78EF6A-D7E7-42CE-B1AB-4CB50D2346B6}|CLDV6211POEPART1\\CLDV6211POEPART1.csproj|c:\\users\\lab_services_student\\desktop\\github\\cloud poe p2\\cldv6211-poe-part-2-st10439216\\cldv6211poepart1\\cldv6211poepart1\\views\\booking\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CE78EF6A-D7E7-42CE-B1AB-4CB50D2346B6}|CLDV6211POEPART1\\CLDV6211POEPART1.csproj|solutionrelative:cldv6211poepart1\\views\\booking\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CE78EF6A-D7E7-42CE-B1AB-4CB50D2346B6}|CLDV6211POEPART1\\CLDV6211POEPART1.csproj|c:\\users\\lab_services_student\\desktop\\github\\cloud poe p2\\cldv6211-poe-part-2-st10439216\\cldv6211poepart1\\cldv6211poepart1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE78EF6A-D7E7-42CE-B1AB-4CB50D2346B6}|CLDV6211POEPART1\\CLDV6211POEPART1.csproj|solutionrelative:cldv6211poepart1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -62,11 +66,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\Github\\cloud poe p2\\CLDV6211-POE-PART-2-st10439216\\CLDV6211POEPART1\\CLDV6211POEPART1\\appsettings.json",
+              "RelativeDocumentMoniker": "CLDV6211POEPART1\\appsettings.json",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\Github\\cloud poe p2\\CLDV6211-POE-PART-2-st10439216\\CLDV6211POEPART1\\CLDV6211POEPART1\\appsettings.json",
+              "RelativeToolTip": "CLDV6211POEPART1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-13T12:26:54.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\Github\\cloud poe p2\\CLDV6211-POE-PART-2-st10439216\\CLDV6211POEPART1\\CLDV6211POEPART1\\Views\\Venue\\Details.cshtml",
               "RelativeDocumentMoniker": "CLDV6211POEPART1\\Views\\Venue\\Details.cshtml",
@@ -78,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\Github\\cloud poe p2\\CLDV6211-POE-PART-2-st10439216\\CLDV6211POEPART1\\CLDV6211POEPART1\\Views\\Venue\\Delete.cshtml",
               "RelativeDocumentMoniker": "CLDV6211POEPART1\\Views\\Venue\\Delete.cshtml",
@@ -96,13 +112,13 @@
               "RelativeDocumentMoniker": "CLDV6211POEPART1\\Views\\Venue\\Index.cshtml",
               "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\Github\\cloud poe p2\\CLDV6211-POE-PART-2-st10439216\\CLDV6211POEPART1\\CLDV6211POEPART1\\Views\\Venue\\Index.cshtml",
               "RelativeToolTip": "CLDV6211POEPART1\\Views\\Venue\\Index.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAABgNjMzM/MmwDsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-12T17:32:44.439Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\Github\\cloud poe p2\\CLDV6211-POE-PART-2-st10439216\\CLDV6211POEPART1\\CLDV6211POEPART1\\Views\\Venue\\Edit.cshtml",
               "RelativeDocumentMoniker": "CLDV6211POEPART1\\Views\\Venue\\Edit.cshtml",
@@ -114,7 +130,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\Github\\cloud poe p2\\CLDV6211-POE-PART-2-st10439216\\CLDV6211POEPART1\\CLDV6211POEPART1\\Views\\Venue\\Create.cshtml",
               "RelativeDocumentMoniker": "CLDV6211POEPART1\\Views\\Venue\\Create.cshtml",
@@ -126,7 +142,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "EventController.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\Github\\cloud poe p2\\CLDV6211-POE-PART-2-st10439216\\CLDV6211POEPART1\\CLDV6211POEPART1\\Controllers\\EventController.cs",
               "RelativeDocumentMoniker": "CLDV6211POEPART1\\Controllers\\EventController.cs",
@@ -138,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Event.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\Github\\cloud poe p2\\CLDV6211-POE-PART-2-st10439216\\CLDV6211POEPART1\\CLDV6211POEPART1\\Models\\Event.cs",
               "RelativeDocumentMoniker": "CLDV6211POEPART1\\Models\\Event.cs",
@@ -150,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Booking.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\Github\\cloud poe p2\\CLDV6211-POE-PART-2-st10439216\\CLDV6211POEPART1\\CLDV6211POEPART1\\Models\\Booking.cs",
               "RelativeDocumentMoniker": "CLDV6211POEPART1\\Models\\Booking.cs",
@@ -162,7 +178,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\Github\\cloud poe p2\\CLDV6211-POE-PART-2-st10439216\\CLDV6211POEPART1\\CLDV6211POEPART1\\Views\\Booking\\Index.cshtml",
               "RelativeDocumentMoniker": "CLDV6211POEPART1\\Views\\Booking\\Index.cshtml",
@@ -180,26 +196,26 @@
               "RelativeDocumentMoniker": "CLDV6211POEPART1\\Controllers\\VenueController.cs",
               "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\Github\\cloud poe p2\\CLDV6211-POE-PART-2-st10439216\\CLDV6211POEPART1\\CLDV6211POEPART1\\Controllers\\VenueController.cs",
               "RelativeToolTip": "CLDV6211POEPART1\\Controllers\\VenueController.cs",
-              "ViewState": "AgIAAKAAAAAAMzMzM7McwKoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAKAAAADozMzMzAwgwKQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-12T12:01:41.808Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
               "Title": "BookingController.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\Github\\cloud poe p2\\CLDV6211-POE-PART-2-st10439216\\CLDV6211POEPART1\\CLDV6211POEPART1\\Controllers\\BookingController.cs",
               "RelativeDocumentMoniker": "CLDV6211POEPART1\\Controllers\\BookingController.cs",
               "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\Github\\cloud poe p2\\CLDV6211-POE-PART-2-st10439216\\CLDV6211POEPART1\\CLDV6211POEPART1\\Controllers\\BookingController.cs",
               "RelativeToolTip": "CLDV6211POEPART1\\Controllers\\BookingController.cs",
-              "ViewState": "AgIAAAQAAABAVGZmZiYgwAoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAqsvMzMzsvwoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-12T12:01:10.07Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\Github\\cloud poe p2\\CLDV6211-POE-PART-2-st10439216\\CLDV6211POEPART1\\CLDV6211POEPART1\\Program.cs",
               "RelativeDocumentMoniker": "CLDV6211POEPART1\\Program.cs",
@@ -211,7 +227,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Venue.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\Github\\cloud poe p2\\CLDV6211-POE-PART-2-st10439216\\CLDV6211POEPART1\\CLDV6211POEPART1\\Models\\Venue.cs",
               "RelativeDocumentMoniker": "CLDV6211POEPART1\\Models\\Venue.cs",

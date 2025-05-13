@@ -12,6 +12,6 @@
     <WebStackScaffolding_IsReferencingScriptLibrariesSelected>True</WebStackScaffolding_IsReferencingScriptLibrariesSelected>
     <WebStackScaffolding_LayoutPageFile />
     <WebStackScaffolding_DbContextTypeFullName>CLDV6211POEPART1.Models.POEDBcontext</WebStackScaffolding_DbContextTypeFullName>
-    <NameOfLastUsedPublishProfile>C:\Users\lab_services_student\Desktop\poepart1\part-1-poe-OockCuan\CLDV6211POEPART1\CLDV6211POEPART1\Properties\PublishProfiles\CldvPOEp1 - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
+    <NameOfLastUsedPublishProfile>C:\Users\lab_services_student\Desktop\Github\cloud poe p2\CLDV6211-POE-PART-2-st10439216\CLDV6211POEPART1\CLDV6211POEPART1\Properties\PublishProfiles\cldvpoewebapp - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>
